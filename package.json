@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"version": "1.0.0",
+	"author": "Thaw Zin Nyein",
 	"dependencies": {
 		"express": "^4.17.1"
 	},
@@ -11,6 +12,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	"author": "Thaw Zin Nyein"
+	}
 }
